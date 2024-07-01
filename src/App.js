@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import HookMouse from './components/HookMouse'
+import HookCounter from './components/HookCounter'
 
 
 
@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div>
         
-        <HookMouse/>
+        <HookCounter/>
         
        
         
